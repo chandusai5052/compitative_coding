@@ -1,0 +1,30 @@
+html
+
+structure
+<!DOCTYPE html>
+<html>
+<body> this is body of the html starts
+<h1> this is heading </h1>
+<P> this is paragraph </p>
+</body>
+</html>
+
+basics
+heading tags <h1> to <h6>
+paragraph tag <p>
+links tag <a> eg: <a herf="http://www.youtube.com">go to youtube</a>
+imgs tag <img> eg: <img src="imagepath or file location">
+
+formatting
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+

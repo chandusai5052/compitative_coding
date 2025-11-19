@@ -1,0 +1,17 @@
+//write a java program to print pass or fail
+//write a java program to print the message if marks is given
+//write a java program to print given number is even or odd
+//write a java program to print minimum two numbers
+//write a java program to print pass if marks greater than or equal to 35
+//14.write a java program to perform arithmetic operation
+//15.write a java program to print week days for using switch case
+//16.write a java program to print one to hundred natural numbers why using while and dowhile loop
+//17.write a java program to print even numbers up to hundred by using while and do while loop
+//18. write a java program to print 100 to 1 and using while and dowhile
+//21. write a java program to print given prime or not
+
+28/08/25
+
+class  -- class means collection of properties of varibles objects it is an real word entity
+object -- object means collection of class
+method -- method is to operate this propertes
